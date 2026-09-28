@@ -1,10 +1,6 @@
 # DESARROLLO DE APLICAIONES MULTIPLATAFORMA
 
----
-
 ## 1ºDAM
-
----
 
 ## 2ºDAM
 
