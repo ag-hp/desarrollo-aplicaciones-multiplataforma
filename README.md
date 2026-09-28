@@ -18,4 +18,4 @@
 > - [Clases de datos, objetos y scripts](https://github.com/ag-hp/pmdm-exercices-dos.git) (Falta terminarlos)
 > - [Colecciones](https://github.com/ag-hp/pmdm-exercices-c.git) (Falta terminarlos)
 
--  [Null → pmdm-exercices-n](https://github.com/ag-hp/pmdm-exercices-n.git) ✓
+-  [Null → pmdm-exercices-n](https://github.com/ag-hp/pmdm-exercices-n.git) | ✓
