@@ -1,19 +1,19 @@
-# DESARROLLO DE APLICAIONES MULTIPLATAFORMA
-[agenda](https://github.com/users/ag-hp/projects/9)
+<h1>DESARROLLO DE APLICACIONES MULTIPLATAFORMA - DAM</h1>
 
-## 1ºDAM
+<p align="center">
+    <a href="https://github.com/users/ag-hp/projects/9"><img src="https://img.shields.io/badge/Agenda-238636?style=for-the-badge&logo=github&logoColor=white" alt="Agenda"></a>
+</p>
 
-## 2ºDAM
+<h2>1º</h2>
 
-### Programación multimedia y dispositivos móviles:
+<h2>2º</h2>
 
-> [!WARNING]
-> - Métodos / funciones
-> (Falta hacerlos)
+<h3>Programación multimedia y dispositivos móviles</h3>
 
-> [!IMPORTANT]
-> - [Clases de datos, objetos y scripts](https://github.com/ag-hp/pmdm-exercices-dos.git) (Falta terminarlos)
-> - [Colecciones](https://github.com/ag-hp/pmdm-exercices-c.git) (Falta terminarlos)
+- Métodos / funciones (Falta hacerlos)
+
+- [Clases de datos, objetos y scripts](https://github.com/ag-hp/pmdm-exercices-dos.git) (Falta terminarlos)
+- [Colecciones → pmdm-exercices-collections](https://github.com/ag-hp/pmdm-exercices-collections.git) (Falta terminarlos)
 
 -  [Null → pmdm-exercices-n](https://github.com/ag-hp/pmdm-exercices-n.git)
 -  [Column y Row → pmdm-exercices-n](https://github.com/ag-hp/pmdm-exercise-cal.git)
