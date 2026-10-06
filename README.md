@@ -66,6 +66,8 @@
     <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"></a>
     &nbsp;&nbsp;
     <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"></a>
+    &nbsp;&nbsp;
+    <a href="https://aws.amazon.com/es/training/awsacademy/"><img src="https://img.shields.io/badge/AWS_Academy-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy"></a>
 </p>
 
 ---
