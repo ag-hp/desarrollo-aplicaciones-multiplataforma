@@ -15,8 +15,9 @@
 - [Clases de datos, objetos y scripts](https://github.com/ag-hp/pmdm-exercices-dos.git) (Falta terminarlos)
 - [Colecciones → pmdm-exercices-collections](https://github.com/ag-hp/pmdm-exercices-collections.git) (Falta terminarlos)
 
--  [Null → pmdm-exercices-null](https://github.com/ag-hp/pmdm-exercices-null.git)
--  [Column y Row → pmdm-exercices-n](https://github.com/ag-hp/pmdm-exercise-cal.git)
+- [Null → pmdm-exercices-null](https://github.com/ag-hp/pmdm-exercices-null.git)
+- [Column y Row → pmdm-exercise-column-row-layout](https://github.com/ag-hp/pmdm-exercise-column-row-layout.git)
+- [Row, Column y layout → pmdm-exercise-column-row-layout](https://github.com/ag-hp/pmdm-exercise-column-row-layout.git)
 
 ### Acceso a datos:
 - [APIs manejo de ficheros Archivo](https://github.com/ag-hp/ad-exercise-r.git)
