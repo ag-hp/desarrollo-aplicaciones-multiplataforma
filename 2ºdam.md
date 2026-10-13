@@ -68,7 +68,3 @@
 <h3>UT1 - Ficheros</h3>
 
 - [Manejo de ficheros → ad-exercises-path](https://github.com/ag-hp/ad-exercises-path.git)
-
----
-
-[https://github.com/ag-hp/java-starter-kit.git](https://github.com/ag-hp/java-starter-kit.git)
