@@ -8,24 +8,38 @@
     <a href="https://www.gitbook.com/"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook"></a>
 </p>
 
-<h2>1º</h2>
-
-<h2>2º</h2>
 
 <h3>Programación multimedia y dispositivos móviles</h3>
 
 <h4>UT00 - Introducción a kotlin</h4>
 
+<h5>Métodos / funciones</h5>
+
 - [Métodos / funciones]() (Falta hacerlos)
 
+<h5>Clases de datos, objetos y scripts</h5>
+
 - [Clases de datos, objetos y scripts](https://github.com/ag-hp/pmdm-exercices-dos.git) (Falta terminarlos)
+
+<h5>Colecciones</h5>
+
 - [Colecciones → pmdm-exercices-collections](https://github.com/ag-hp/pmdm-exercices-collections.git) (Falta terminarlos)
+
+<h5>Null</h5>
+
 - [Null → pmdm-exercices-null](https://github.com/ag-hp/pmdm-exercices-null.git)
 
 <h4>UT01 - Introducción a la programación de aplicaciones Android</h4>
 
+<h5>Jetpack Compose</h5>
+
+<h6>Column y Row</h6>
+
 - [Column y Row → pmdm-exercise-column-row-layout](https://github.com/ag-hp/pmdm-exercise-column-row-layout.git)
 - [Row, Column y layout → pmdm-exercise-column-row-layout](https://github.com/ag-hp/pmdm-exercise-column-row-layout.git)
+
+<h6>Ejercicios componentes y estados</h6>
+
 - [Componentes → pmdm-exercise-components](https://github.com/ag-hp/pmdm-exercise-components.git)
 
 ---
