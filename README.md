@@ -22,8 +22,6 @@
 - [Colecciones → pmdm-exercices-collections](https://github.com/ag-hp/pmdm-exercices-collections.git) (Falta terminarlos)
 - [Null → pmdm-exercices-null](https://github.com/ag-hp/pmdm-exercices-null.git)
 
----
-
 <h4>UT01 - Introducción a la programación de aplicaciones Android</h4>
 
 - [Column y Row → pmdm-exercise-column-row-layout](https://github.com/ag-hp/pmdm-exercise-column-row-layout.git)
