@@ -52,6 +52,10 @@
 - [Highschool Spring → psp-exercises-highschool-spring](https://github.com/ag-hp/psp-exercises-highschool-spring.git)
 - [Airline Spring → psp-exercises-airline-spring](https://github.com/ag-hp/psp-exercises-airline-spring.git)
 
+<h4>Proyectos obligatorios</h4>
+
+- []()
+
 ---
 
 <h3>Acceso a datos</h3>
