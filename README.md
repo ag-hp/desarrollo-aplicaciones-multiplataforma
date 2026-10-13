@@ -41,6 +41,8 @@
 - [Programación multihilo → psp-exercices-multithreaded-programming](https://github.com/ag-hp/psp-exercices-multithreaded-programming.git)
 - [Sincronización → psp-exercise-synchronization](https://github.com/ag-hp/psp-exercise-synchronization.git)
 - [Problemas de concurrencia → ]()
+- []()
+- []()
 
 ---
 
