@@ -41,8 +41,8 @@
 - [Programación multihilo → psp-exercices-multithreaded-programming](https://github.com/ag-hp/psp-exercices-multithreaded-programming.git)
 - [Sincronización → psp-exercise-synchronization](https://github.com/ag-hp/psp-exercise-synchronization.git)
 - [Problemas de concurrencia → ]()
-- [Spring Boot](https://github.com/ag-hp/psp-exercises-spring-boot.git)
-- [Highschool Spring](https://github.com/ag-hp/psp-exercises-highschool-spring.git)
+- [Spring Boot → psp-exercises-spring-boot](https://github.com/ag-hp/psp-exercises-spring-boot.git)
+- [Highschool Spring → psp-exercises-highschool-spring](https://github.com/ag-hp/psp-exercises-highschool-spring.git)
 
 ---
 
