@@ -28,7 +28,7 @@
     &nbsp;&nbsp;
     <a href="https://www.postman.com/downloads/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
     &nbsp;&nbsp;
-    <a href="https://dbeaver.io//downloads/"><img src="https://img.shields.io/badge/Dbeaver-846230?style=for-the-badge&logo=dbeaver&logoColor=white" alt="Dbeaver"></a>
+    <a href="https://dbeaver.io/download/"><img src="https://img.shields.io/badge/Dbeaver-846230?style=for-the-badge&logo=dbeaver&logoColor=white" alt="Dbeaver"></a>
     
 </p>
 
