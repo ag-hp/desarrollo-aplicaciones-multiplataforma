@@ -67,4 +67,4 @@
 
 <h3>UT1 - Ficheros</h3>
 
-- [Manejo de ficheros → ad-exercises-path](https://github.com/ag-hp/ad-exercises-path.git)
+- [Manejo de ficheros → ad-exercises-path](https://github.com/ag-hp/ad-exercises-path.git) (falta terminar algunos)
